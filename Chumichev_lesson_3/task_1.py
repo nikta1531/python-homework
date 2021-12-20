@@ -16,3 +16,5 @@ def num_translate(word):
 
 print('Напишите числительное от 0 до 10 на английском языке: ')
 print(num_translate(input()))
+
+# конец
